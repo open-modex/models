@@ -1,7 +1,7 @@
 ---
 name: GitHub-Issues - getting started
 about: Submit a new Issue
-title: Select a 'Keyword: ShortDescription'
+title: Select a 'Keyword ShortDescription'
 labels: help wanted
 assignees: 
 
