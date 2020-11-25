@@ -1,6 +1,6 @@
 ---
 name: Issue template
-about: Submit a new Issue
+about: A issue template for gernal questions, feature requests and bug reports. 
 title: Add a Keyword and short description like [model]My description
 labels: help wanted
 assignees: 
@@ -27,9 +27,6 @@ ____________________________________________________________________
 
 **Please also add the label to the issue! You can add labels in the widget to the right.** 
 
-## Issue description
-A clear and concise description of what you want to happen.
-
 
 ## Select the model this issue concerns :
 - [ ] Balmorel
@@ -40,6 +37,9 @@ A clear and concise description of what you want to happen.
 
 **Please also add the model label to the issue! You can add labels in the widget to the right.**   
 
+
+## Issue description
+A clear and concise description of what you want to happen.
 
 ## Additional context
 Add any other context or screenshots about the request here.

@@ -6,10 +6,12 @@ labels: help wanted
 assignees: 
 
 ---
-
+## Basics: Markdown and Github Issues
 You can use markdown to format the content of the issue. This [cheat-sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) helps you to do that.
+
 Basic step-by-step guide:
 https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue
+
 Detailed Guide:
 https://guides.github.com/features/issues/
 
@@ -29,7 +31,3 @@ You can address someone directly (@githubname) or assign the issue as a task to 
 - [ ] Have I linked helpful sources? Like links to the script i worke on or some copy of my error code.
 - [ ] Have I added a label to my issue?
 - [ ] Have I assigned someone to the issue?
-
-
-## Additional resources
-
