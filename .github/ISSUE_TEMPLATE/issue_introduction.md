@@ -1,7 +1,7 @@
 ---
 name: GitHub-Issues - getting started
 about: Submit a new Issue
-title: Select a 'Keyword ShortDescription'
+title: Add a Keyword and short description like [model]My description
 labels: help wanted
 assignees: 
 
