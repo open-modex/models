@@ -19,23 +19,8 @@ You can use markdown to format the content of the issue. This [cheat-sheet](http
 - [ ] Have I assigned someone to the issue?
 ____________________________________________________________________
 
-## This issue is a:
-
-- [ ] Bug report
-- [ ] Feature request
-- [ ] Question
-
-**Please also add the label to the issue! You can add labels in the widget to the right.** 
-
-
-## Select the model this issue concerns :
-- [ ] Balmorel
-- [ ] GENESYS-2
-- [ ] oemof
-- [ ] OSeMOSYS
-- [ ] urbs
-
-**Please also add the model label to the issue! You can add labels in the widget to the right.**   
+## Add Labels
+**Please add labels to the issue! You can add labels in the widget to the right. ** 
 
 
 ## Issue description
