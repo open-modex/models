@@ -5,23 +5,34 @@
 
 # Funding
 
+# License
+
 # Importand details / Key features
 
 # Dependencies
+You can add special dependencies here, but please keep the [requirements.txt]() up to date.
 
 # Getting started
-Documentation on how to Install the framework and how to get started is provided as [Issue](https://github.com/open-modex/models/issues?q=label%3AOSeMOSYS-framework-dev-docs+label%3AOSeMOSYS-model-dev-docs). Please select one from the list.
+Documentation on how to Install the framework and how to get started.
 
-# (technical) Reference Documentation / Link to documentation (read the docs?)
+## Installation
 
-# License
+## Developement
+
+## Short useage example 
+
+## Link to tutorials
 
 # Support and Contribution
 
 ## How to get in touch? 
 
-## Where to post questions?
+## Where to post questions, feature request or bug reports?
 Please use the [GitHub-Issues](https://github.com/open-modex/models/issues/new/choose) in this repository.
+
+Please have a look at the list of all model-developement realated
+[Issue](https://github.com/open-modex/models/issues?q=is%3Aopen+label%3AOSeMOSYS+label%3Amodel-dev-docs+) for OSeMOSYS.
 
 ## How to contribute?
 See our [general repository contribution guidelines](https://github.com/open-modex/models/blob/develop/CONTRIBUTING.md)
+
